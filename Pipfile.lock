@@ -14,19 +14,19 @@
     },
     "default": {
         "certifi": {
-            "version": "==2017.11.5"
+            "version": "==2018.8.24"
         },
         "chardet": {
             "version": "==3.0.4"
         },
         "click": {
-            "version": "==6.7"
+            "version": "==7.0"
         },
         "flask": {
-            "version": "==0.12.2"
+            "version": "==1.0.2"
         },
         "idna": {
-            "version": "==2.6"
+            "version": "==2.7"
         },
         "itsdangerous": {
             "version": "==0.24"
@@ -38,22 +38,22 @@
             "version": "==1.0"
         },
         "pyyaml": {
-            "version": "==3.12"
+            "version": "==3.13"
         },
         "requests": {
-            "version": "==2.18.4"
+            "version": "==2.19.1"
         },
         "ua-parser": {
-            "version": "==0.7.3"
+            "version": "==0.8.0"
         },
         "urllib3": {
-            "version": "==1.22"
+            "version": "==1.23"
         },
         "user-agents": {
             "version": "==1.1.0"
         },
         "werkzeug": {
-            "version": "==0.12.2"
+            "version": "==0.14.1"
         }
     },
     "develop": {}
